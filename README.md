@@ -4,7 +4,7 @@
     <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipelimabr&layout=compact&langs_count=16&theme=highcontrast" /> 
    </a>
 </div>
-  
+
 ##
 
 <div align="center" valign="top"><br/>
@@ -30,4 +30,3 @@ A little about me:<br/>
    
 ##
 
-![Snake animation](https://github.com/KaduComC/KaduComC/blob/output/github-contribution-grid-snake.svg)
