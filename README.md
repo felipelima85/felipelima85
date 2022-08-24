@@ -17,8 +17,8 @@
 
 ##
 
-Hello, my name is Felipe Lima (Fifa)<br/>
-I am a student of the Information Systems course at the Estácio-FIB University of Bahia - BR<br/>
+👋Hello, my name is Felipe Lima (Fifa)<br/>
+👨‍🎓I am a student of the Information Systems course at the Estácio-FIB University of Bahia - BR<br/>
 <br/>
 A little about me:<br/>
    💼- I currently work as a freelance web developer.<br/>
