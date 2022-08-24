@@ -30,4 +30,4 @@ A little about me:<br/>
    
 ##
 
-![snake gif](https://github.com/devfelipelimabr/devfelipelimabr/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/devfelipelimabr/devfelipelimabr/blob/output/github-contribution-grid-snake.svg)
