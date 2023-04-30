@@ -11,8 +11,7 @@
    <img align="center" alt="CSS3" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
    <img align="center" alt="HTML5" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
    <img align="center" alt="JS" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="PHP" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-   <img align="center" alt="C" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+   <img align="center" alt="NODE" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">  
 </div>
 
 ##
