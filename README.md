@@ -17,15 +17,8 @@
 ##
 
 👋Hello, my name is Felipe Lima (Fifa)<br/>
-👨‍🎓I am a student of the Information Systems course at the Estácio-FIB University of Bahia - BR<br/>
+👨‍🎓I am a professional of the Information Systems<br/>
 <br/>
-A little about me:<br/>
-   💼- I currently work as a freelance web developer.<br/>
-   📘- Currently studying WEB DEVELOPMENT.<br>
-   ⚡- "Lord of the rings" is the best film series ever made.<br/>
-   ⚡- The Witcher 3 is the best game of the century.<br/>
-   ⚡- Pearl Jam is the best band in the universe.<br/>
-   🚴‍♂️- Bicycle is the best means of transport.<br/>
    
 ##
 
