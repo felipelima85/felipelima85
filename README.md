@@ -10,7 +10,8 @@
 <div align="center" valign="top"><br/>
 
    <img align="center" alt="php" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-   <img align="center" alt="CodeIgniter" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
+   <img align="center" alt="Laravel" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+   <img align="center" alt="CodeIgniter" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
    <img align="center" alt="NODE" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
    <img align="center" alt="postgresql" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="MySQL" height="48" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
